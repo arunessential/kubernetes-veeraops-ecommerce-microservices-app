@@ -1,4 +1,4 @@
-name: EKS Terraform Deployment
+name: infra Terraform
 
 on:
   workflow_dispatch:
